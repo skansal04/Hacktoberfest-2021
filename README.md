@@ -42,3 +42,11 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 3. Edit index.md (Add your name, profile link and bio)
 4. Commit and push the changes to your fork
 5. Go to your forked repo and create a pull request
+### Method 3
+1. Fork the repo
+2. Clone that repo to your local system
+3. Make a new branch
+4. Make your changes
+5. Push it back to your repo
+6. Click the Compare & pull request button
+7. Click Create pull request to open a new pull request
